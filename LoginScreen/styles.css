@@ -1,0 +1,56 @@
+.parent-div{
+    height:100vh;
+    width:auto;
+    background:#aaaaaa;
+}
+
+.child-div{
+    height:80vh;
+    width:500px;
+    background-color: #303030;
+    border-left:5px solid #FFD300;
+    border-radius:5px;
+}
+
+.form-group{
+    padding-top:20px;
+    padding-bottom:20px;
+}
+
+
+.form-control{
+    border-radius: 25px;
+    width:280px;
+    height: 50px;
+    font-size:18px;
+    background-color:#aaaaaa;
+    border:2px solid #FFD300;
+    color:#000000;
+    transition: all ease-in 0.3s;
+}
+
+.form-control:hover{
+    width: 320px;
+}
+
+.btn{
+    border-radius: 20px;
+    width: 100px;
+    height: 50px;
+    margin-top:20px;
+    font-size:18px;
+    background-color:#FFD300;
+    transition: all ease-in 0.3s;
+}
+.btn:hover{
+    width:130px;
+}
+
+h1{
+    font-size: 50px;
+}
+
+p{
+    margin-top:40px;
+    font-size: 18px;
+}
